@@ -1,7 +1,11 @@
 # Edelyn's API
+This Edelyn's API provides endpoints to manage a simple database of names. It supports operations to create, read, update, and delete records. The API utilizes the Slim framework for routing and PDO (PHP Data Objects) for database interactions.
 
-This PHP-based API provides endpoints to manage a simple database of names. It supports operations to create, read, update, and delete records. The API utilizes the Slim framework for routing and PDO (PHP Data Objects) for database interactions.
 
+# API Description
+An API, or Application Programming Interface, is a set of rules and protocols that allow different software applications to communicate with each other. It defines the methods and data formats that applications can use to request and exchange information, enabling seamless integration and interaction between various systems.
+
+It offers fundamental functions for adding, retrieving, updating, and deleting name records. Whether you want to insert a new name, find specific names, modify existing ones, or remove entries, this API simplifies the process. It operates on the Slim framework, ensuring smooth and organized navigation, while PDO (PHP Data Objects) provides a secure and reliable way to interact with the database. This combination of technologies not only makes the API robust but also ensures that managing names becomes a seamless task for developers.
 
 
 ## API Endpoints
